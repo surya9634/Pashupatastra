@@ -25,12 +25,13 @@ Pashupatastra: Let's combine chemistry in our A.I Projects......
 1. **Determine** the total mass of the propellant (T) based on required propulsion and rocket size. For this demonstration, assume **T = 200 grams**.
 
 2. **Calculate Required Quantities** using stoichiometric formulations:
-   - **KNO₃ Mass (K)** = \( \frac{65}{100} \times T \)
-   - **Sucrose Mass (S)** = \( \frac{35}{100} \times T \)
+    KNO₃ Mass (K) = 65/100 × T
 
    *Example Calculation:* If **T = 200 grams**:
-   - \( K = \frac{65}{100} \times 200 = 130 \text{ grams} \)
-   - \( S = \frac{35}{100} \times 200 = 70 \text{ grams} \)
+   
+      K = 65/100 × 200 = 130 Grams
+
+      S = 35/100 × 200 = 70 Grams
 
 #### Step 2: Pulverization of Constituents 💥🔬
 
@@ -59,23 +60,6 @@ Pashupatastra: Let's combine chemistry in our A.I Projects......
 1. Insert the dried ignition filament into the open end of the combustion chamber, ensuring it contacts the propellant mixture.
 2. **Secure the Filament** with heat-resistant adhesive if necessary to prevent dislodgement upon ignition.
 3. **Aerodynamic Mold**: Sculpt the chamber casing into an aerodynamic shape to optimize airflow.
-
-#### Step 7: Advanced Calculations (Optional) 🧮🔍
-
-For those looking to maximize combustion efficiency, calculate based on these advanced formulae:
-
-   - **Ingredient Ratio Formula**: 
-      \[
-      \text{Each Component Quantity} = T \times \frac{100}{\text{percentage}}
-      \]
-   - **Oxidizer Proportion (KNO₃)**: 
-      \[
-      \text{KNO₃} = \frac{65}{100} \times T
-      \]
-   - **Fuel Proportion (Sucrose)**:
-      \[
-      \text{Sucrose} = \frac{35}{100} \times T
-      \]
 
 ---
 
